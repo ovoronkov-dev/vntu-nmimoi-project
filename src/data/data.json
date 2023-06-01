@@ -1,0 +1,100 @@
+{
+    "data": [
+        {
+            "name": "Keurig K-Elite",
+            "imageUrl": "https://m.media-amazon.com/images/I/81sG72G84+L.jpg",
+            "attributes": {
+                "price": 700,
+                "brand": "Keurig",
+                "coffeeType": 1,
+                "drinkTypes": 0,
+                "waterVolume": 1.5,
+                "buildType": 0,
+                "fieldOfUse": 0,
+                "vaporPressure": 15,
+                "power": 2500,
+                "controlType": 0
+            }
+        },
+        {
+            "name": "Philips 3200 Series",
+            "imageUrl": "https://images.philips.com/is/image/philipsconsumer/e9997b9a812e4ea9accdaf5400baf0d6?$jpglarge$&wid=1250",
+            "attributes": {
+                "price": 1200,
+                "brand": "Philips",
+                "coffeeType": 2,
+                "drinkTypes": 1,
+                "waterVolume": 2.5,
+                "buildType": 1,
+                "fieldOfUse": 1,
+                "vaporPressure": 20,
+                "power": 1000,
+                "controlType": 2
+            }
+        },
+        {
+            "name": "Jura e6",
+            "imageUrl": "https://jura.com.ua/image/cache/catalog/images/img%20E6/E6_1-800x800.jpg",
+            "attributes": {
+                "price": 900,
+                "brand": "Jura",
+                "coffeeType": 0,
+                "drinkTypes": 0,
+                "waterVolume": 1,
+                "buildType": 1,
+                "fieldOfUse": 0,
+                "vaporPressure": 30,
+                "power": 1000,
+                "controlType": 0
+            }
+        },
+        {
+            "name": "Nespresso Essenza Mini",
+            "imageUrl": "https://coffeemart.com.ua/images/product_images/thumbnail_images/5719_0.jpg",
+            "attributes": {
+                "price": 1100,
+                "brand": "Nespresso",
+                "coffeeType": 1,
+                "drinkTypes": 2,
+                "waterVolume": 1.8,
+                "buildType": 0,
+                "fieldOfUse": 1,
+                "vaporPressure": 25,
+                "power": 1000,
+                "controlType": 0
+            }
+        },
+        {
+            "name": "Breville Barista Express",
+            "imageUrl": "https://m.media-amazon.com/images/I/71BvCt6eAFL._AC_UF894,1000_QL80_.jpg",
+            "attributes": {
+                "price": 1800,
+                "brand": "Breville",
+                "coffeeType": 2,
+                "drinkTypes": 1,
+                "waterVolume": 2,
+                "buildType": 0,
+                "fieldOfUse": 2,
+                "vaporPressure": 20,
+                "power": 3000,
+                "controlType": 0
+            }
+        },
+        {
+            "name": "DeLonghi Magnifica S",
+            "imageUrl": "https://hotline.ua/img/tx/180/1806045105.jpg",
+            "attributes": {
+                "price": 2000,
+                "brand": "DeLonghi",
+                "coffeeType": 2,
+                "drinkTypes": 2,
+                "waterVolume": 3,
+                "buildType": 1,
+                "fieldOfUse": 2,
+                "vaporPressure": 30,
+                "power": 2000,
+                "controlType": 2
+            }
+        }
+    ]
+}
